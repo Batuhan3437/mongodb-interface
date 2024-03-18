@@ -1,0 +1,1 @@
+{'_id': ObjectId('64b6306b790853d512fdadd2'), 'Deneyim (yýl)': 0, 'Suan çalýþma durumu': 'hayýr', 'Kaç farklý þirkette çalýþtý': 0, 'Eðitim Durumu': 'Lisans', 'En iyi 10 okuldan mezun mu': 'hayýr', 'Stajý girmek istediði þirkette mi yaptý': 'hayýr', 'Ýþe alýndý mý': 'alýnamadý'}
